@@ -1,1 +1,3 @@
 This is a new feature.
+I'm editing in feature-branch
+This is a conflicting line.
